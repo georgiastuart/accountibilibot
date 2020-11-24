@@ -11,6 +11,7 @@
   "author": "Georgia Stuart",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^12.5.0"
+    "discord.js": "^12.5.0",
+    "sugar": "^2.0.6"
   }
 }
